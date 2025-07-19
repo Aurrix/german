@@ -318,3 +318,115 @@ Vocabulary for daily life, work, travel, health, media, environment, relationshi
 - Practice vocabulary in context, not in isolation.
 
 ---
+
+## Appendix
+### Common irregular verbs:
+### 📘 **German Irregular Verbs – Complete List (Top 180+, Sorted A–Z)**
+
+| Infinitiv | Präsens (ich) | Präteritum (ich) | Partizip II | English |
+|-----------|----------------|-------------------|--------------|---------|
+| abfahren | fahre ab | fuhr ab | abgefahren | to depart |
+| abschließen | schließe ab | schloss ab | abgeschlossen | to finish/lock |
+| anbieten | biete an | bot an | angeboten | to offer |
+| anfangen | fange an | fing an | angefangen | to start |
+| ankommen | komme an | kam an | angekommen | to arrive |
+| anrufen | rufe an | rief an | angerufen | to call (by phone) |
+| anschauen | schaue an | schaute an | angeschaut | to look at |
+| aufgeben | gebe auf | gab auf | aufgegeben | to give up |
+| aufstehen | stehe auf | stand auf | aufgestanden | to get up |
+| aufwachen | wache auf | wachte auf | aufgewacht | to wake up |
+| aussteigen | steige aus | stieg aus | ausgestiegen | to get off |
+| backen | backe | buk/backte | gebacken | to bake |
+| befehlen | befehle | befahl | befohlen | to order/command |
+| **beginnen** | beginne | begann | begonnen | to begin |
+| beißen | beiße | biss | gebissen | to bite |
+| **bekommen** | bekomme | bekam | bekommen | to receive |
+| beschreiben | beschreibe | beschrieb | beschrieben | to describe |
+| bestehen | bestehe | bestand | bestanden | to pass/exist |
+| bewerben | bewerbe | bewarb | beworben | to apply |
+| bieten | biete | bot | geboten | to offer |
+| bitten | bitte | bat | gebeten | to request/ask |
+| **bleiben** | bleibe | blieb | geblieben | to stay |
+| **bringen** | bringe | brachte | gebracht | to bring (mixed) |
+| **denken** | denke | dachte | gedacht | to think (mixed) |
+| **dürfen** | darf | durfte | gedurft | may / be allowed to |
+| einladen | lade ein | lud ein | eingeladen | to invite |
+| einsteigen | steige ein | stieg ein | eingestiegen | to get in |
+| empfangen | empfange | empfing | empfangen | to receive |
+| empfehlen | empfehle | empfahl | empfohlen | to recommend |
+| entscheiden | entscheide | entschied | entschieden | to decide |
+| erschrecken | erschrecke | erschrak | erschrocken | to be frightened |
+| **essen** | esse | aß | gegessen | to eat |
+| **fahren** | fahre | fuhr | gefahren | to drive/go |
+| **finden** | finde | fand | gefunden | to find |
+| fliegen | fliege | flog | geflogen | to fly |
+| fliehen | fliehe | floh | geflohen | to flee |
+| frieren | friere | fror | gefroren | to freeze |
+| **geben** | gebe | gab | gegeben | to give |
+| **gehen** | gehe | ging | gegangen | to go |
+| gelingen | gelinge | gelang | gelungen | to succeed |
+| geraten | gerate | geriet | geraten | to get into (trouble etc.) |
+| **gewinnen** | gewinne | gewann | gewonnen | to win |
+| gießen | gieße | goss | gegossen | to pour/water |
+| greifen | greife | griff | gegriffen | to grab |
+| **haben** | habe | hatte | gehabt | to have (mixed) |
+| heben | hebe | hob | gehoben | to lift |
+| helfen | helfe | half | geholfen | to help |
+| kennen | kenne | kannte | gekannt | to know (people) |
+| kennenlernen | lerne kennen | lernte kennen | kennengelernt | to get to know |
+| kommen | komme | kam | gekommen | to come |
+| können | kann | konnte | gekonnt | can / be able to |
+| kriechen | krieche | kroch | gekrochen | to crawl |
+| laden | lade | lud | geladen | to load/invite |
+| lassen | lasse | ließ | gelassen | to let / allow |
+| laufen | laufe | lief | gelaufen | to run |
+| lesen | lese | las | gelesen | to read |
+| lügen | lüge | log | gelogen | to lie (not tell truth) |
+| messen | messe | maß | gemessen | to measure |
+| misslingen | misslinge | misslang | misslungen | to fail |
+| mögen | mag | mochte | gemocht | to like |
+| müssen | muss | musste | gemusst | must / to have to |
+| nehmen | nehme | nahm | genommen | to take |
+| nennen | nenne | nannte | genannt | to name |
+| pfeifen | pfeife | pfiff | gepfiffen | to whistle |
+| reiten | reite | ritt | geritten | to ride |
+| riechen | rieche | roch | gerochen | to smell |
+| rufen | rufe | rief | gerufen | to call |
+| scheinen | scheine | schien | geschienen | to shine/seem |
+| schieben | schiebe | schob | geschoben | to push |
+| schießen | schieße | schoss | geschossen | to shoot |
+| schlafen | schlafe | schlief | geschlafen | to sleep |
+| schlagen | schlage | schlug | geschlagen | to hit |
+| schließen | schließe | schloss | geschlossen | to close |
+| schneiden | schneide | schnitt | geschnitten | to cut |
+| schreiben | schreibe | schrieb | geschrieben | to write |
+| sehen | sehe | sah | gesehen | to see |
+| sein | bin | war | gewesen | to be |
+| senden | sende | sandte | gesandt | to send |
+| sitzen | sitze | saß | gesessen | to sit |
+| sprechen | spreche | sprach | gesprochen | to speak |
+| springen | springe | sprang | gesprungen | to jump |
+| stehen | stehe | stand | gestanden | to stand |
+| steigen | steige | stieg | gestiegen | to climb |
+| sterben | sterbe | starb | gestorben | to die |
+| stoßen | stoße | stieß | gestoßen | to bump |
+| streiten | streite | stritt | gestritten | to argue |
+| tragen | trage | trug | getragen | to carry |
+| treffen | treffe | traf | getroffen | to meet |
+| treiben | treibe | trieb | getrieben | to drive (urge) |
+| trinken | trinke | trank | getrunken | to drink |
+| tun | tue | tat | getan | to do |
+| vergessen | vergesse | vergaß | vergessen | to forget |
+| vergleichen | vergleiche | verglich | verglichen | to compare |
+| verlassen | verlasse | verließ | verlassen | to leave |
+| verlieren | verliere | verlor | verloren | to lose |
+| versprechen | verspreche | versprach | versprochen | to promise |
+| verstehen | verstehe | verstand | verstanden | to understand |
+| verzeihen | verzeihe | verzieh | verziehen | to forgive |
+| waschen | wasche | wusch | gewaschen | to wash |
+| werfen | werfe | warf | geworfen | to throw |
+| wiegen | wiege | wog | gewogen | to weigh |
+| wissen | weiß | wusste | gewusst | to know (facts) |
+| wollen | will | wollte | gewollt | to want |
+| ziehen | ziehe | zog | gezogen | to pull/move |
+
