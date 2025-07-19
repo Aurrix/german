@@ -79,30 +79,261 @@ Prefixes change the meaning of a verb and its placement in a sentence.
 **Inseparable prefixes:** be-, emp-, ent-, er-, ge-, miss-, ver-, zer-  
 - Prefix never splits; no _ge_ in Perfekt: _Ich **besuche** meine Eltern._ / _Ich habe dich **besucht**._
 
+  ### 📘 **Top 50 Separable and Inseparable Verbs (with Conjugation & Prefix Meaning Shift)**
+
+| Verb | Präsens (er/sie) | Präteritum | Partizip II | English |
+|------|------------------|-------------|--------------|---------|
+| abfahren | fährt ab | fuhr ab | abgefahren | to depart |
+| abholen | holt ab | holte ab | abgeholt | to pick up |
+| abnehmen | nimmt ab | nahm ab | abgenommen | to decrease/lose weight |
+| abschließen | schließt ab | schloss ab | abgeschlossen | to finish/lock |
+| ankommen | kommt an | kam an | angekommen | to arrive |
+| anrufen | ruft an | rief an | angerufen | to call (phone) |
+| aufhören | hört auf | hörte auf | aufgehört | to stop |
+| aufmachen | macht auf | machte auf | aufgemacht | to open |
+| aufstehen | steht auf | stand auf | aufgestanden | to get up |
+| aussehen | sieht aus | sah aus | ausgesehen | to look/appear |
+| aussteigen | steigt aus | stieg aus | ausgestiegen | to get out |
+| beginnen | beginnt | begann | begonnen | to begin |
+| bekommen | bekommt | bekam | bekommen | to receive |
+| besuchen | besucht | besuchte | besucht | to visit |
+| bezahlen | bezahlt | bezahlte | bezahlt | to pay |
+| einladen | lädt ein | lud ein | eingeladen | to invite |
+| einsteigen | steigt ein | stieg ein | eingestiegen | to get in |
+| empfehlen | empfiehlt | empfahl | empfohlen | to recommend |
+| entscheiden | entscheidet | entschied | entschieden | to decide |
+| entschuldigen | entschuldigt | entschuldigte | entschuldigt | to excuse |
+| erkennen | erkennt | erkannte | erkannt | to recognize |
+| erklären | erklärt | erklärte | erklärt | to explain |
+| erlauben | erlaubt | erlaubte | erlaubt | to allow |
+| erleben | erlebt | erlebte | erlebt | to experience |
+| erzählen | erzählt | erzählte | erzählt | to tell |
+| fernsehen | sieht fern | sah fern | ferngesehen | to watch TV |
+| gefallen | gefällt | gefiel | gefallen | to please |
+| gehören | gehört | gehörte | gehört | to belong |
+| missverstehen | missversteht | missverstand | missverstanden | to misunderstand |
+| mitbringen | bringt mit | brachte mit | mitgebracht | to bring along |
+| mitkommen | kommt mit | kam mit | mitgekommen | to come along |
+| umarmen | umarmt | umarmte | umarmt | to hug |
+| verkaufen | verkauft | verkaufte | verkauft | to sell |
+| verlieren | verliert | verlor | verloren | to lose |
+| versprechen | verspricht | versprach | versprochen | to promise |
+| verstehen | versteht | verstand | verstanden | to understand |
+| versuchen | versucht | versuchte | versucht | to try |
+| vorstellen | stellt vor | stellte vor | vorgestellt | to introduce |
+| weglaufen | läuft weg | lief weg | weggelaufen | to run away |
+| weitergehen | geht weiter | ging weiter | weitergegangen | to go further |
+| wiederholen | holt wieder | holte wieder | wiedergeholt | to fetch again |
+| zerstören | zerstört | zerstörte | zerstört | to destroy |
+| zubereiten | bereitet zu | bereitete zu | zubereitet | to prepare |
+| zumachen | macht zu | machte zu | zugemacht | to close |
+| zunehmen | nimmt zu | nahm zu | zugenommen | to increase/gain weight |
+| zurückbekommen | bekommt zurück | bekam zurück | zurückbekommen | to get back |
+| zurückgeben | gibt zurück | gab zurück | zurückgegeben | to give back |
+| zurückkommen | kommt zurück | kam zurück | zurückgekommen | to come back |
+| überleben | überlebt | überlebte | überlebt | to survive |
+| übernehmen | übernimmt | übernahm | übernommen | to take over |
+| überzeugen | überzeugt | überzeugte | überzeugt | to convince |
+| überraschen | überrascht | überraschte | überrascht | to surprise |
+
+
 **Both:** Some verbs can be both (umfahren: _um|fahren_ vs. _umfahren_), changing meaning.
 
 **Tips:**
 - Learn which prefixes are separable/inseparable!
 - In subordinate clauses, prefix remains attached (_...dass ich anrufe_).
 
+### 🔄 **Expanded List: German Verbs with Prefix-Dependent Meaning Shift**
+
+| Verb           | Separable? | Präsens (er/sie) | Präteritum | Partizip II     | Meaning                              |
+|----------------|-------------|------------------|-------------|------------------|--------------------------------------|
+| umfahren       | ✅ Yes      | fährt um         | fuhr um     | umgefahren       | to run over (physically hit)         |
+| umfahren       | ❌ No       | umfährt          | umfuhr      | umfahren         | to drive around (avoid)              |
+| übersetzen     | ✅ Yes      | setzt über       | setzte über | übergesetzt      | to ferry across / cross over         |
+| übersetzen     | ❌ No       | übersetzt        | übersetzte  | übersetzt        | to translate                         |
+| umstellen      | ✅ Yes      | stellt um        | stellte um  | umgestellt       | to rearrange                         |
+| umstellen      | ❌ No       | umstellt         | umstellte   | umstellt         | to surround                          |
+| durchfahren    | ✅ Yes      | fährt durch      | fuhr durch  | durchgefahren     | to drive through (nonstop)           |
+| durchfahren    | ❌ No       | durchfährt       | durchfuhr   | durchfahren       | to pass through / penetrate          |
+| unterstellen   | ✅ Yes      | stellt unter     | stellte unter | untergestellt    | to shelter / store                   |
+| unterstellen   | ❌ No       | unterstellt      | unterstellte | unterstellt       | to imply / accuse                    |
+| übergehen      | ✅ Yes      | geht über        | ging über   | übergegangen      | to transition / pass to              |
+| übergehen      | ❌ No       | übergeht         | überging    | übergangen        | to skip / ignore                     |
+| durchlaufen    | ✅ Yes      | läuft durch      | lief durch  | durchgelaufen     | to run through (space)               |
+| durchlaufen    | ❌ No       | durchläuft       | durchlief   | durchlaufen       | to undergo / go through              |
+| überziehen     | ✅ Yes      | zieht über       | zog über    | übergezogen       | to put on (clothing)                 |
+| überziehen     | ❌ No       | überzieht        | überzog     | überzogen         | to overdraw (bank account)           |
+| widerlegen     | ❌ No       | widerlegt        | widerlegte  | widerlegt         | to refute                            |
+| widersprechen  | ❌ No       | widerspricht     | widersprach | widersprochen     | to contradict                        |
+| überlaufen     | ✅ Yes      | läuft über       | lief über   | übergelaufen      | to overflow                          |
+| überlaufen     | ❌ No       | überläuft        | überlief    | überlaufen        | to defect (politics)                 |
+| umziehen       | ✅ Yes      | zieht um         | zog um      | umgezogen         | to move house                        |
+| umziehen       | ❌ No       | umzieht          | umzog       | umzogen           | to dress / cover                     |
+| durchdenken    | ❌ No       | durchdenkt       | durchdachte | durchdacht        | to think through                     |
+| durchdringen   | ✅ Yes      | dringt durch     | drang durch | durchgedrungen    | to penetrate                         |
+| durchdringen   | ❌ No       | durchdringt      | durchdrang  | durchdrungen      | to permeate / saturate               |
+| übertreten     | ✅ Yes      | tritt über       | trat über   | übergetreten      | to step across                       |
+| übertreten     | ❌ No       | übertritt        | übertrat    | übertreten        | to violate (law)                     |
+
+
 ---
 
 ## 4. Passive Voice (Passiv)
 
-Used to focus on what happens, not who does it. Common in formal/impersonal language.
+# 🇩🇪 Passive Voice (Passiv) – Full Compact Summary
 
-**Forms:**
-- **Präsens:** werden + Partizip II (_Das Haus wird gebaut._)
-- **Präteritum:** wurde + Partizip II (_Das Haus wurde gebaut._)
-- **Perfekt:** ist + Partizip II + worden (_Das Haus ist gebaut worden._)
-- **Plusquamperfekt:** war + Partizip II + worden (_Das Haus war gebaut worden._)
-- **Modal verbs:** muss gebaut werden (_Das Haus muss gebaut werden._)
-- **Stative Passive:** sein + Partizip II (_Die Tür ist geschlossen._)
+The **Passiv** is used when the focus is on **what happens**, not **who does it**.
 
-**Notes:**
-- Only for transitive verbs: _lesen_ (to read), _bauen_ (to build), **not** _sein_ or _schlafen_.
-- To state the agent, use _von_: _Das Buch wurde von dem Schüler gelesen._
-- Spoken alternative: Use _man_ for general passive: _Man baut das Haus._
+---
+
+## 📌 Structure
+
+**Vorgangspassiv (Process):**  
+`werden` (conjugated) + **Partizip II (past participle)**  
++ `worden` in perfect forms
+
+**Zustandspassiv (State):**  
+`sein` (conjugated) + **Partizip II**
+
+---
+
+## 🔄 Forms and Examples
+
+| Tense            | Structure                        | Example                              | Translation                         |
+|------------------|----------------------------------|--------------------------------------|-------------------------------------|
+| Präsens          | wird + Partizip II               | Das Haus **wird gebaut**.            | The house is being built.          |
+| Präteritum       | wurde + Partizip II              | Das Haus **wurde gebaut**.           | The house was built.               |
+| Perfekt          | ist + Partizip II + worden       | Das Haus **ist gebaut worden**.      | The house has been built.          |
+| Plusquamperfekt  | war + Partizip II + worden       | Das Haus **war gebaut worden**.      | The house had been built.          |
+| Futur I          | wird + Partizip II + werden      | Das Haus **wird gebaut werden**.     | The house will be built.           |
+| Modalverb        | muss + Partizip II + werden      | Das Haus **muss gebaut werden**.     | The house must be built.           |
+| Zustandspassiv   | ist/war + Partizip II            | Die Tür **ist geschlossen**.         | The door is closed (state).        |
+
+---
+
+## 👤 Indicating the Agent
+
+Use `von` + Dative to name the person/agent:
+
+- Das Buch **wurde von dem Schüler gelesen**.  
+  _(The book was read by the student.)_
+
+Use `durch` if the agent is an **instrument/tool**:
+
+- Das Fenster wurde **durch den Wind** geöffnet.  
+  _(The window was opened by the wind.)_
+
+---
+
+## 🧠 Zustandspassiv vs Vorgangspassiv
+
+| Type              | Focus      | Structure           | Example                          |
+|-------------------|------------|---------------------|----------------------------------|
+| Vorgangspassiv    | the action | werden + Partizip II| Das Fenster **wird geöffnet**.   |
+| Zustandspassiv    | the result | sein + Partizip II  | Das Fenster **ist geöffnet**.    |
+
+---
+
+## ✅ When to Use
+
+- To **emphasize the action**, not the doer.
+- When the subject is **unknown**, **irrelevant**, or **obvious**.
+- In **formal**, **impersonal**, or **scientific** language.
+
+---
+
+## 🧨 Common Pitfalls & Mistakes
+
+### ❌ Using intransitive verbs in passive
+Only **transitive verbs** (those with a direct object) can be used in **Vorgangspassiv**.
+
+| Incorrect                  | Correct                        |
+|----------------------------|--------------------------------|
+| *Es wird gegangen.*        | –                              |
+| *Er wird geschlafen.*      | –                              |
+| ✅ Das Haus wird gebaut.   | (transitive verb: bauen)       |
+
+---
+
+### ❌ Mixing up `worden` and `geworden`
+
+- `worden` → used in **Passive Perfekt/Plusquamperfekt**  
+- `geworden` → Partizip II of **werden**, used in **active** meaning "became"
+
+| Example                            | Meaning                          |
+|------------------------------------|----------------------------------|
+| Er **ist berühmt geworden**.       | He has become famous. (active)   |
+| Er **ist verletzt worden**.        | He has been injured. (passive)   |
+
+---
+
+### ❌ Confusing Zustandspassiv and Vorgangspassiv
+
+- Zustandspassiv = Result (sein + Partizip II)  
+- Vorgangspassiv = Action/process (werden + Partizip II)
+
+| Wrong                       | Correct                          |
+|-----------------------------|----------------------------------|
+| *Das Fenster wird geöffnet.* (state) | Das Fenster **ist geöffnet**. (correct state) |
+| *Die Tür ist geöffnet.* (action)     | Die Tür **wird geöffnet**. (correct action)   |
+
+---
+
+### ❌ Word order in modal + passive
+
+Correct order:  
+**modal verb** (conjugated) + **Partizip II** + **werden** (infinitive)
+
+- ✅ Das Haus **muss gebaut werden**.
+- ❌ Das Haus **muss werden gebaut**.
+
+---
+
+### ❌ Agent with `von` vs `durch`
+
+- ✅ Use `von` for **people**
+- ✅ Use `durch` for **forces, tools**
+
+| Example                                | Use       |
+|----------------------------------------|-----------|
+| Das Buch wurde **von ihm** geschrieben.| person    |
+| Das Fenster wurde **durch den Wind** geöffnet.| instrument |
+
+---
+
+## 🗣 Spoken Alternative
+
+In casual or spoken German, instead of the passive, people often use **"man"**:
+
+| Passive                           | Spoken Equivalent           |
+|----------------------------------|-----------------------------|
+| Das Haus wird gebaut.            | **Man baut das Haus.**      |
+| Der Text wurde geschrieben.      | **Man hat den Text geschrieben.** |
+
+---
+
+## 🛠 Common Verbs Used in Passive
+
+| Infinitive | Partizip II | Passive Präsens Example      |
+|------------|--------------|------------------------------|
+| bauen      | gebaut       | Das Haus **wird gebaut**.    |
+| schreiben  | geschrieben  | Der Brief **wird geschrieben**. |
+| essen      | gegessen     | Die Pizza **wird gegessen**. |
+| lesen      | gelesen      | Das Buch **wird gelesen**.   |
+
+---
+
+## 🎓 Summary Cheatsheet
+
+```
+[Present]       wird gebaut       — is being built
+[Past]          wurde gebaut      — was built
+[Perfekt]       ist gebaut worden — has been built
+[Plusquamperf.] war gebaut worden — had been built
+[Future]        wird gebaut werden — will be built
+[Modal]         muss gebaut werden — must be built
+[Zustand]       ist gebaut        — is
+```
 
 ---
 
@@ -198,21 +429,127 @@ Adds information to nouns. Relative pronoun agrees in gender/case with the noun.
 
 ## 9. Adjective Endings (Adjektivdeklination)
 
-Adjective endings change with article, case, and gender. Memorization required!
+## 📘 Adjective Endings (Adjektivdeklination)
 
-|           | Masculine      | Feminine      | Neuter        | Plural          |
-|-----------|---------------|---------------|---------------|-----------------|
-| der       | den roten     | die frische   | das neue      | die großen      |
-| ein       | einen roten   | eine frische  | ein neues     | —               |
-| (none)    | roten         | frische       | neues         | große           |
+German adjective endings depend on:
+- Case (Nominative, Accusative, Dative, Genitive)
+- Gender (Masculine, Feminine, Neuter, Plural)
+- Article type: definite (*der*), indefinite (*ein*), or no article.
 
-**Tips:**
-- After _viel_, _etwas_, _nichts_: _viel kaltes Wasser_
-- Most mistakes: masculine accusative and dative plural
+### 🔤 Declension Table: Common Cases
+| Case / Gender     | With **der** (Weak)      | With **ein** (Mixed)     | No article (Strong)      |
+|-------------------|---------------------------|---------------------------|---------------------------|
+| **Masc. Nom.**    | der rot**e** Mann         | ein rot**er** Mann        | rot**er** Mann            |
+| **Masc. Acc.**    | den rot**en** Mann        | einen rot**en** Mann      | rot**en** Mann            |
+| **Fem. Nom.**     | die frisch**e** Milch     | eine frisch**e** Milch    | frisch**e** Milch         |
+| **Fem. Acc.**     | die frisch**e** Milch     | eine frisch**e** Milch    | frisch**e** Milch         |
+| **Neut. Nom.**    | das neu**e** Brot         | ein neu**es** Brot        | neu**es** Brot            |
+| **Neut. Acc.**    | das neu**e** Brot         | ein neu**es** Brot        | neu**es** Brot            |
+| **Plural Nom.**   | die groß**en** Hunde      | —                         | groß**e** Hunde           |
+| **Plural Acc.**   | die groß**en** Hunde      | —                         | groß**e** Hunde           |
+| **Dative Masc.**  | dem rot**en** Mann        | einem rot**en** Mann      | rot**em** Mann            |
+| **Dative Fem.**   | der frisch**en** Milch    | einer frisch**en** Milch  | frisch**er** Milch        |
+| **Dative Neut.**  | dem neu**en** Brot        | einem neu**en** Brot      | neu**em** Brot            |
+| **Dative Plural** | den groß**en** Kindern    | —                         | groß**en** Kindern        |
 
-**Examples:**
-- _Ich kaufe einen großen Tisch._ (I buy a big table.)
-- _Sie hat neues Brot gekauft._ (She bought new bread.)
+💡 *In Dative Plural, nouns must also take an extra “-n”: mit **großen** Kindern*
+
+---
+
+## 🔁 Comparison: Komparativ & Superlativ
+
+German adjectives compare like this:
+
+| Degree        | Ending         | Example (gut = good)   | Translation      |
+|---------------|----------------|-------------------------|------------------|
+| **Positive**  | basic form     | gut                     | good             |
+| **Comparative** | +**-er**     | besser                  | better           |
+| **Superlative** | am + **-sten** / **-ste** (declined) | am besten / der beste | best      |
+
+### Examples with endings:
+
+- Das ist ein **guter** Tag. (positive)
+- Heute ist ein **besserer** Tag. (comparative)
+- Es war der **beste** Tag. (superlative)
+
+---
+
+## ⚠️ Irregular Comparatives & Superlatives
+
+| Positive   | Comparative | Superlative     | Translation       |
+|------------|-------------|-----------------|-------------------|
+| gut        | besser      | am besten / der beste | good → better → best |
+| viel       | mehr        | am meisten      | much → more → most |
+| gern       | lieber      | am liebsten     | like → prefer → love most |
+| hoch       | höher       | am höchsten     | high → higher → highest |
+| nah        | näher       | am nächsten     | near → nearer → nearest |
+
+---
+
+## 🔎 Notes & Exceptions
+
+- **"viel kaltes Wasser"** – after *viel*, *etwas*, *nichts* → **strong ending**
+- **kein** behaves like **ein**: *kein guter Mann*
+- Superlative with **am** → adverbial: *am schönsten* (the most beautifully)
+- Superlative with article → adjectival: *der schönste Tag*
+
+---
+
+## ✅ Example Sentences
+
+- Ich kaufe **einen großen** Tisch.  
+  *I buy a big table.*
+
+- Sie hat **neues** Brot gekauft.  
+  *She bought new bread.*
+
+- Er ist **ein besserer** Lehrer.  
+  *He is a better teacher.*
+
+- Das war **der schönste** Moment.  
+  *That was the most beautiful moment.*
+
+- Wir brauchen **viel kaltes** Wasser.  
+  *We need a lot of cold water.*
+
+
+  ### 🔤 Expanded Comparison of Similar German Adjectives
+
+| **Adjective**     | **Meaning (EN)**                    | **Meaning (RU)**                       | **Typical Use / Nuance**                                                                 | **Example (DE)**                                | **Example (EN)**                            |
+|-------------------|-------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------|
+| **angenehm**      | pleasant                            | приятный                               | Emotionally or physically pleasing, often formal or neutral                             | Das Gespräch war **angenehm**.                  | The conversation was pleasant.              |
+| **gemütlich**     | cozy, homely                        | уютный, непринуждённый                 | Warm, relaxing atmosphere; often physical space or mood                                  | Wir sitzen in einem **gemütlichen** Wohnzimmer. | We're sitting in a cozy living room.        |
+| **behaglich**     | snug, comfortable                   | комфортный, уютный                     | More internal sense of comfort or warmth                                                  | Ich fühle mich **behaglich** im Bett.          | I feel snug in bed.                         |
+| **bequem**        | comfortable, convenient             | удобный                                | Physical comfort—chairs, clothes, furniture                                              | Der Sessel ist sehr **bequem**.                | The armchair is very comfortable.           |
+| **komfortabel**   | luxurious, with conveniences        | комфортабельный                        | High-end, modern conveniences—hotels, transport                                           | Das Hotelzimmer ist **komfortabel** ausgestattet. | The hotel room is luxuriously equipped.     |
+| **ruhig**         | quiet, calm                         | спокойный, тихий                       | General calmness—places, people                                                           | Ich mag eine **ruhige** Umgebung.              | I like a calm environment.                  |
+| **still**         | silent                              | безмолвный, тихий                      | Absolute silence, more intense than "ruhig"                                               | Sei bitte **still**!                           | Please be quiet!                            |
+| **leise**         | soft (sound)                        | тихий (о звуке)                        | Refers to quiet sound, opposite of loud                                                   | Sie spricht sehr **leise**.                    | She speaks very softly.                     |
+| **schnell**       | fast                                | быстрый                                | Speed in general                                                                          | Der Zug ist **schnell**.                       | The train is fast.                          |
+| **rasch**         | rapid, swift                        | стремительный                          | Slightly more formal or literary than "schnell"                                           | Er reagierte **rasch**.                        | He reacted swiftly.                         |
+| **flink**         | nimble, quick                       | проворный                              | Quick and agile, especially for people or animals                                         | Der Junge ist **flink**.                       | The boy is quick and nimble.                |
+| **klug**          | clever, smart                       | умный                                  | General intelligence                                                                      | Sie ist sehr **klug**.                         | She is very smart.                          |
+| **schlau**        | sly, clever                         | хитрый                                 | Clever in a cunning or tricky way                                                         | Du bist ganz schön **schlau**!                 | You're pretty sly!                          |
+| **intelligent**   | intelligent                         | интеллектуальный                       | Formal, academic intelligence                                                             | Er ist ein **intelligenter** Mensch.           | He's an intelligent person.                 |
+| **billig**        | cheap (low price/quality)           | дешёвый                                | Often implies low quality                                                                 | Das war ein **billiges** Produkt.              | That was a cheap product.                   |
+| **günstig**       | good value, convenient              | выгодный, подходящий                   | Favorable in price, condition, or location                                                | Das ist ein **günstiges** Angebot.             | That's a good deal.                         |
+| **preiswert**     | worth the price                     | стоящий своих денег                    | Focuses on value-for-money, positively                                                    | Ein **preiswertes** Mittagessen.               | A good-value lunch.                         |
+| **lustig**        | funny                               | весёлый, смешной                       | General amusement or humor                                                                | Der Film war **lustig**.                       | The movie was funny.                        |
+| **komisch**       | odd / funny                         | странный / смешной                     | Can mean funny or weird depending on context                                              | Der Typ ist **komisch**.                       | That guy is strange/funny.                  |
+| **witzig**        | witty                               | остроумный                             | Smart, quick humor                                                                        | Du bist heute sehr **witzig**.                 | You're witty today.                         |
+| **neu**           | new                                 | новый                                  | Recently made or introduced                                                              | Ich habe ein **neues** Auto.                   | I have a new car.                           |
+| **modern**        | modern                              | современный                            | Up-to-date, trendy, fashionable                                                           | Ein **modernes** Design.                       | A modern design.                            |
+| **aktuell**       | current, up-to-date                 | актуальный                             | Currently relevant, recent news                                                           | Die **aktuelle** Lage ist angespannt.          | The current situation is tense.             |
+| **freundlich**    | friendly                            | дружелюбный                            | General kindness, politeness                                                              | Der Verkäufer war **freundlich**.              | The salesman was friendly.                  |
+| **nett**          | nice, pleasant                      | милый, приятный                        | Casual friendliness                                                                       | Sie ist eine **nette** Kollegin.               | She’s a nice colleague.                     |
+| **lieb**          | dear, kind                          | милый, любимый                         | Loving, used for children, partners, or sweet behavior                                    | Du bist so **lieb**!                           | You're so sweet!                            |
+| **traurig**       | sad                                 | грустный                               | Emotional sadness                                                                         | Ich bin **traurig**.                           | I am sad.                                   |
+| **bedrückt**      | down, gloomy                        | подавленный                            | Depressed or emotionally burdened                                                         | Er wirkt **bedrückt**.                         | He seems gloomy.                           |
+| **melancholisch** | melancholic                         | меланхоличный                          | Deep or nostalgic sadness                                                                 | Eine **melancholische** Melodie.               | A melancholic melody.                       |
+| **alt**           | old                                  | старый                                 | Age of objects or people                                                                 | Mein Auto ist **alt**.                         | My car is old.                              |
+| **älter**         | older                                | старше                                 | Comparative of "alt", used with people or objects                                         | Mein Bruder ist **älter** als ich.            | My brother is older than me.               |
+| **antik**         | antique                              | антикварный                            | Valuable old things, historically old                                                     | Das ist ein **antiker** Schrank.               | That is an antique cabinet.                |
+
 
 ---
 
@@ -231,6 +568,87 @@ Show relationships in space, time, or logic. Each governs a specific case.
 
 **Prepositions with fixed verbs:**
 - _warten auf (Akk)_, _sprechen mit (Dat)_, _sich erinnern an (Akk)_, _träumen von (Dat)_
+
+  # 🇩🇪 German Prepositions – Summary (with 🇬🇧 English & 🇷🇺 Russian)
+
+---
+
+## 1. Accusative Prepositions (Akkusativ)
+
+These always take the **accusative case**:
+
+| German | English       | Russian        | Example |
+|--------|---------------|----------------|---------|
+| durch  | through       | через          | Wir gehen **durch** den Park. |
+| für    | for           | для            | Das Geschenk ist **für** dich. |
+| gegen  | against       | против         | Das Auto fährt **gegen** den Baum. |
+| ohne   | without       | без            | Ich gehe **ohne** Jacke. |
+| um     | around / at   | вокруг / в     | Wir sitzen **um** den Tisch.<br>Der Film beginnt **um** acht. |
+
+---
+
+## 2. Dative Prepositions (Dativ)
+
+These always take the **dative case**:
+
+| German     | English          | Russian       | Example |
+|------------|------------------|---------------|---------|
+| aus        | out of           | из            | Ich komme **aus** dem Haus. |
+| bei        | at, near, with   | у, при        | Ich bin **bei** meiner Freundin. |
+| mit        | with             | с             | Ich gehe **mit** dir. |
+| nach       | after, to        | после, в      | **Nach** der Schule gehe ich nach Hause. |
+| seit       | since, for       | с (о времени) | Ich lebe **seit** einem Jahr hier. |
+| von        | from, of         | от, из        | Das Geschenk ist **von** meinem Bruder. |
+| zu         | to               | к             | Ich gehe **zu** meiner Mutter. |
+| gegenüber  | opposite, across | напротив      | Die Schule liegt **gegenüber** dem Park. |
+
+---
+
+## 3. Two-way Prepositions (Wechselpräpositionen)
+
+Take **accusative** for motion (куда?) and **dative** for location (где?):
+
+| German    | English             | Russian         | Accusative (куда?) / Dative (где?) |
+|-----------|---------------------|------------------|-------------------------------------|
+| an        | at, on (vertical)   | на (вертикаль)  | Ich hänge das Bild **an** die Wand.<br>Das Bild hängt **an** der Wand. |
+| auf       | on (horizontal)     | на (горизонталь)| Ich lege das Buch **auf** den Tisch.<br>Das Buch liegt **auf** dem Tisch. |
+| hinter    | behind              | за              | Er geht **hinter** das Haus.<br>Er steht **hinter** dem Haus. |
+| in        | in, into            | в               | Ich gehe **in** die Schule.<br>Ich bin **in** der Schule. |
+| neben     | next to             | рядом с         | Ich setze mich **neben** dich.<br>Ich sitze **neben** dir. |
+| über      | over, above         | над             | Ich hänge die Lampe **über** den Tisch.<br>Die Lampe hängt **über** dem Tisch. |
+| unter     | under, below        | под             | Die Katze geht **unter** den Tisch.<br>Die Katze ist **unter** dem Tisch. |
+| vor       | in front of, before | перед           | Ich stelle das Auto **vor** das Haus.<br>Das Auto steht **vor** dem Haus. |
+| zwischen  | between             | между           | Ich stelle den Stuhl **zwischen** den Tisch und das Bett.<br>Der Stuhl steht **zwischen** dem Tisch und dem Bett. |
+
+---
+
+## 4. Genitive Prepositions (Genitiv)
+
+These take the **genitive case** (often formal/literary):
+
+| German          | English      | Russian       | Example / Note |
+|-----------------|--------------|---------------|----------------|
+| anstatt / statt | instead of   | вместо        | **Statt** des Lehrers kommt der Direktor.<br>_‘statt’ is more colloquial, ‘anstatt’ is more formal._ |
+| trotz           | despite      | несмотря на   | **Trotz** des Regens gehen wir spazieren. |
+| während         | during       | во время      | **Während** des Films war es still. |
+| wegen           | because of   | из-за         | **Wegen** des Unfalls ist die Straße gesperrt. |
+
+---
+
+## 5. Useful Prepositional Phrases
+
+Fixed or idiomatic expressions:
+
+| Phrase              | Meaning               | Russian           | Example |
+|---------------------|------------------------|--------------------|---------|
+| auf Deutsch         | in German             | по-немецки         | Ich spreche **auf Deutsch**. |
+| zu Hause            | at home               | дома               | Ich bin **zu Hause**. |
+| nach Hause          | (to) home             | домой              | Ich gehe **nach Hause**. |
+| mit Absicht         | on purpose            | нарочно            | Er hat das **mit Absicht** gemacht. |
+| ohne Zweifel        | without doubt         | без сомнения       | Das ist **ohne Zweifel** richtig. |
+| im Vergleich zu     | in comparison to      | по сравнению с     | **Im Vergleich zu** gestern ist es heute wärmer. |
+| wegen des Wetters   | because of the weather| из-за погоды       | Wir bleiben zu Hause **wegen des Wetters**. |
+
 
 ---
 
